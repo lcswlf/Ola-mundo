@@ -1,2 +1,5 @@
-# Ola-mundo
- primeira aula de git github
+# Olá, mundo!
+ 
+Primeira aula de git github
+
+Que orgulho caras! 
