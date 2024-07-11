@@ -9,3 +9,4 @@ Lista de objetivos:
 - [ ] Commitar projetos html
 - [ ] terminar as aulas de git
   
+![certificadopcfraco](https://github.com/lcswlf/Ola-mundo/assets/143883123/606548d8-7668-455b-b3b4-385028ffbfa4)
