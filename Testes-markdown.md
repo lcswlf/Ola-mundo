@@ -37,3 +37,5 @@ idade = int(input('Qual a sua idade? '))
 print(f'{nome}, você terá {idade + 1} anos daqui 1 ano.')
 
 ```
+
+Obrigado pela atenção 💚🐲
